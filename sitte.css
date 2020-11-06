@@ -1,0 +1,116 @@
+body {		
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
+	line-height: 1.5;
+	text-align: justify;
+	
+	
+ }
+				
+h1 {
+	text-align: center;
+	background-color: #008bad;
+	color: #FFF; 
+	font-size: 220%;
+	text-align:center; 
+ 
+}
+
+h1, h2 { 
+	font-family: "Open Sans Condensed","Arial", sans-serif;	
+
+}
+
+ { 
+	text-align: center;
+	
+	margin: 20px 0;
+}
+
+
+ blockquote {
+	background-color: #02111069;
+	border: 10px solid #008bad;
+	width: 250px;
+	box-sizing: border-box;
+	margin: 20px 40px;
+ }
+
+header h1 {
+	text-align: center;
+	background-color: #851944;
+	color: #FFF;
+	padding: 25px;
+	border-bottom: 10px solid black; 	
+	font-size: 60px;
+	text-transform: uppercase; 
+
+}
+
+h2 { 
+	font-size: 40px; 
+}
+
+
+aside h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+main header {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0; 
+}
+
+}
+strong {
+	 font-weight: bold; 
+	
+}
+
+em { 
+	font-style: italic; 
+}
+
+
+footer {
+	background-color: #000;
+	color: #F2FFFC;
+}
+
+main a {
+	color: #851944;  
+}
+	
+
+blockquote, aside, footer {
+	padding: 20px;
+}
+
+.icones-redes-sociais li {
+	display: inline-block;
+}
+
+
+
+
+
+
+
+aside li {
+	display: inline-block;
+   }
+
+
+
+
+}
+ul { 
+	color: pink;
+}
+ul li a { 
+	color: inherit;
+
+
